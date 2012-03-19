@@ -1,0 +1,36 @@
+{
+	"name"          : "http-terminal",
+	"description"   : "HTTP REPL in a browser. Talk REST on the go like a pro!",
+	"version"       : "1.0.0",
+	"keywords"      : ["util", "functional", "browser", "terminal", "console", "shell", "HTTP", "REST", "REPL"],
+	"homepage"      : "http://github.com/SDA/http-terminal",
+	"author"        : "Sasa Djolic <sasa.djolic@sdaworld.com>",
+	"maintainers"   : [{
+		"name"      : "Sasa Djolic",
+		"email"     : "sasa.djolic@sdaworld.com",
+		"web"       : "http://www.sasadjolic.com"
+	}],
+	"contributors"  : [{
+		"name"      : "Sasa Djolic",
+		"email"     : "sasa.djolic@sdaworld.com",
+		"web"       : "http://www.sasadjolic.com"
+	}],
+	"bugs"          : { "url": "http://github.com/SDA/http-terminal/issues" },
+	"licenses"      : [{ "type": "MIT", "url": "https://raw.github.com/SDA/http-terminal/master/LICENSE" }],
+	"repositories"  : [{ "type": "git", "url": "http://github.com/SDA/http-terminal" }],
+	"scripts"       : {
+		"build"     : "node build/build.js",
+		"test"      : "node test/index.js"
+	},
+	"directories"   : {
+		"lib"       : "lib"
+	},
+	"devDependencies": {
+		"qunit": "0.4.x"
+	},
+	"dependencies": {
+		"fs-extra": ">= 0.0.4",
+		"less": "1.3.x",
+		"seq": "0.3.x"
+	}
+}
