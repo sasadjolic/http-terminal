@@ -8,6 +8,10 @@ Inspired by the awesome http-console for node.js by Alexis Sellier. Whereas http
 requires node.js, this project http-terminal will run in a browser. Now you can REPL to your
 heart's content as easily as opening a browser, no matter where you are.
 
+## Live example HTTP terminal
+
+[Check out the live example here](http://sda.github.com/http-terminal/)
+
 ## License
 
 (The MIT License)
