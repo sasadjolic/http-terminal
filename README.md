@@ -10,7 +10,7 @@ heart's content as easily as opening a browser, no matter where you are.
 
 ## Live example HTTP terminal
 
-[Check out the live example here](http://sda.github.com/http-terminal/)
+[Check out the live example here](http://sasadjolic.github.com/http-terminal/)
 
 ## License
 
