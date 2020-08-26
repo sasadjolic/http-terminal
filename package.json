@@ -26,7 +26,7 @@
 		"lib"        : "lib"
 	},
 	"devDependencies": {
-		"qunit"      : "0.4.x"
+		"qunit"      : "2.11.x"
 	},
 	"dependencies"   : {
 		"fs-extra"   : ">= 0.0.4",
